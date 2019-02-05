@@ -15,7 +15,7 @@ Ubuntu Linux əməliyyat sisteminə yeni başlayanlar üçün tövsiyyə edilir.
 Hər bir platforma üçün ideal əməliyyat sistemidir.Stolüstü, laptop, server bunlara misaldır.
 
 ## Tapşırıq
-Əgər siz Ubuntu ƏS ilə tanış olmaq və onun istifadəçisi olmaq istəyirsinizsə, bura baxsanız yaxşı olar:
+Əgər siz Ubuntu əməliyat sistemi ilə tanış olmaq və onun istifadəçisi olmaq istəyirsinizsə, bura baxsanız yaxşı olar:
 <a href='http://www.ubuntu.com/'>http://www.ubuntu.com/</a>
 
 ## Sual-Cavab
