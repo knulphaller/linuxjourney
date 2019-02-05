@@ -26,7 +26,7 @@
 
 * Sistemin İşə Salınması - Linux-un işə düşməsi ilə bağlı bir neçə mərhələlərlə tanış olacağıq.
 
-* Kernel - Linux-un əsas ən önəmli hissələrindən biridir, onun necə işlədiyi və konfiqurasiyasının hansı üsulla qurulduğunu öyrənəcəyik. 
+* Nüvə - Linux-un əsas ən önəmli hissələrindən biridir, onun necə işlədiyi və konfiqurasiyasının hansı üsulla qurulduğunu öyrənəcəyik. 
 
 * İnit - SysV, Upstart, Systemd və digər fərqli init sistemləri ilə tanış olacağıq.
 
