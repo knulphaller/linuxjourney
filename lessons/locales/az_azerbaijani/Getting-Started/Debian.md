@@ -24,7 +24,7 @@ Debian hər bir platforma üçün əla əməliyyat sistemidir.
 
 ## Tapşırıqlar
 
-Əgər əməliyyat sistemi olaraq Debian-ı fikirləşirsinizsə yüklənmə prosesinə baxın və bizə bir şans verin: <a>href='https://www.debian.org/'>https://www.debian.org/</a>
+Əgər əməliyyat sistemi olaraq Debian-ı fikirləşirsinizsə yüklənmə prosesinə baxın və bizə bir şans verin: <a>'https://www.debian.org/'>https://www.debian.org/</a>
 
 ## Sual-Cavab
 
