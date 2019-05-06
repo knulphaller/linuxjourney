@@ -1,0 +1,51 @@
+# Baş Səhifə
+
+##Çəyirtkə
+
+* Gəlin Başlayaq - Linux nədir? Paylanma və yüklənmə prosesi haqqinda ümumi məlumat.
+
+* Command Line - Command Line-ın təməlləri, faylların yönləndirilməsi, qovluqlar və daha çox.
+
+* Text-Fu - Sadə yazıların manupuliyasiyasi və yönləndirilməsi.
+
+* Qabaqcıl Text-Fu - Linux-un Vim və Emacs-ında hörümçək meymun kimi manevrlər etməyi öyrənəcəyik. 
+
+* İstifadəçinin İdarə Olunması - İstifadəçinin vəzifələri və idarə olunması.
+
+* İcazələr - İcazələrin dərəcələri və dəyişdirilməsi haqqında öyrənəcəyik.
+
+* Proseslər - Sistem işlək halda olan zaman gedən prosesləri araşdıracağıq.
+
+* Paketlər - dpkg, apt-get, rpm və yum haqqında hər şey.
+
+## Usta Olma Yolunda
+
+* Cihazlar - Linux, cihazlar və əsas istifadəçi ilə əlaqə yaratması haqqında məlumat alın.
+
+* Fayl Sistemləri - Linux-un fayl sistemi haqqında, fərqli fayl tipləri və sinifləndirmə haqqında daha çox məlumat əldə edəcəyik.
+
+* Sistemin İşə Salınması - Linux-un işə düşməsi ilə bağlı bir neçə mərhələlərlə tanış olacağıq.
+
+* Nüvə - Linux-un əsas ən önəmli hissələrindən biridir, onun necə işlədiyi və konfiqurasiyasının hansı üsulla qurulduğunu öyrənəcəyik. 
+
+* İnit - SysV, Upstart, Systemd və digər fərqli init sistemləri ilə tanış olacağıq.
+
+* Prosesin İstifadəsi - Üst, yük ortalamaları, iostat və digər resursların monitorinqi.
+
+* Logging - Sistem gündəlikləri və /var/log/ kataloqu haqqında.
+
+##Köçəri Şəbəkə 
+
+* Şəbəkənin Paylaşılması - Şəbəkənin rsync, scp, nfs ilə paylaşılması və daha çoxu.
+
+* Şəbəkənin Təməlləri - Şəbəkənin təməlləri və TCP/İP modeli haqqında məlumat.
+
+* Subnetting - Alt şəbəkələr və onların riyazi modelini öyrənəcəyik.
+
+* Yönləndirmə - Paketlərin şəbəkələr ətrafında yönləndirilməsini təmin edəcəyik.
+
+* Şəbəkənin konfiqurasiyası - Şəbəkinin Linux alətləri ilə sazlanması
+
+* Problemin Həll Edilməsi - Problem aşkar etmək və həll etmək üçün istifadə olunan Linux alətləri.
+
+* DNS(Domain Name Server) - DNS haqqında bilməyiniz lazım olan hər şey.
